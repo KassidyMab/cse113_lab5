@@ -1,0 +1,14 @@
+Script started on 2022-03-12 20:51:45-07:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="21"]
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ gcc -g -Wall ./lab5_q3.c -lm
+[?2004l[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ ./a.out 
+[?2004lpoint 1
+-----
+Enter a point in x,y format: 5,7
+point 2
+-----
+Enter a point in x,y format: 2,3
+The distance between the two points is 5.000000
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ exit
+[?2004lexit
+
+Script done on 2022-03-12 20:52:13-07:00 [COMMAND_EXIT_CODE="0"]

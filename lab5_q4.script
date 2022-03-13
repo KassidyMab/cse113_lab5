@@ -1,0 +1,19 @@
+Script started on 2022-03-13 10:55:32-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="21"]
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ ./a[Ksigncalc.out 
+[?2004l1. Find your sign
+2. Quit
+Enter a number: 1
+Enter a date yyyy-mm-dd: 2- 000-02-29
+Your sign is: Pisces
+1. Find your sign
+2. Quit
+Enter a number: 1
+Enter a date yyyy-mm-dd: 200   2111-12-31
+Your sign is: Capricon
+1. Find your sign
+2. Quit
+Enter a number: 2
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ exit
+[?2004lexit
+
+Script done on 2022-03-13 10:56:12-06:00 [COMMAND_EXIT_CODE="0"]

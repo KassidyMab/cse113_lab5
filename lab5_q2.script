@@ -1,0 +1,17 @@
+Script started on 2022-03-12 20:38:05-07:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ ./[K[Kgcc -g -Wall ./lab5_q2.c
+[?2004l[01m[K./lab5_q2.c:26:6:[m[K [01;35m[Kwarning: [m[Kreturn type of ‘[01m[Kmain[m[K’ is not ‘[01m[Kint[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wmain-Wmain]8;;[m[K]
+   26 | void [01;35m[Kmain[m[K()
+      |      [01;35m[K^~~~[m[K
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ ./a.out 
+[?2004lRed = 18
+Orange = 19
+yellow = 5
+Green = 6
+Blue = 7
+Indigo = 14
+Violet = 15
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ exit
+[?2004lexit
+
+Script done on 2022-03-12 20:38:32-07:00 [COMMAND_EXIT_CODE="12"]

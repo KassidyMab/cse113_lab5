@@ -1,0 +1,37 @@
+Script started on 2022-03-12 20:37:02-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ ./[K[Kgcc -g -Wall ./array_struct.c
+[?2004l[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ a[K./a.out 
+[?2004lShortest
+-----
+Struct index: 4
+Subject age: 22
+Subject height: 62 inches
+Subject id: E
+-----
+Tallest
+-----
+Struct index: 0
+Subject age: 23
+Subject height: 74 inches
+Subject id: A
+-----
+Youngest
+-----
+Struct index: 2
+Subject age: 19
+Subject height: 68 inches
+Subject id: C
+-----
+Oldest
+-----
+Struct index: 0
+Subject age: 23
+Subject height: 74 inches
+Subject id: A
+-----
+Average height: 68.8
+Average age 21.2
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ exit
+[?2004lexit
+
+Script done on 2022-03-12 20:37:14-07:00 [COMMAND_EXIT_CODE="0"]

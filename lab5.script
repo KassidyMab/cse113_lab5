@@ -1,0 +1,20 @@
+Script started on 2022-03-12 20:36:37-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ gcc ./[K[K-g -Wall ./lab5.c ./array.c
+[?2004l[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ ./a.out 
+[?2004lArray size: 1474
+Array max: 2116
+Array minimum: 117
+Midpoint: 1116
+Numbers less than the array: 755
+Numbers larger than the array: 719
+The midpoint does not exist within the array.
+The sum of all values in the array are: 1615934
+The average of all value are: 1096.000000
+The median is: 737
+The number of odd elements: 740
+The number of even elements: 734
+The number of elements divisble by 117 is: 0
+[?2004h]0;kas@pop-os: ~/homework[01;32mkas@pop-os[00m:[01;34m~/homework[00m$ exit
+[?2004lexit
+
+Script done on 2022-03-12 20:36:54-07:00 [COMMAND_EXIT_CODE="0"]

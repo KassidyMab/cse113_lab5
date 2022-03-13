@@ -1,0 +1,18 @@
+Name: Kassidy Maberry
+Assignment: lab 5
+date: 3/12/22
+-----
+        Strucutres compared to arrays are more effective at storing multiple
+types of data. It creates more of an object where it has defualt values that
+can be modified within the program or assigned. Compared to an array where it
+is a list of different elements of all the same type to be modified. A Struct 
+can hold arrays as well. Struct are much more useful at sending massive amounts
+of data into another function and modify/make us of the information. Arrays can
+do a similar thing but are limited to one data type.
+        Arrays on the other hand are much easier to use and call upon. Being
+able to be modified and called up just as easy. Arrays are much more effective
+at using massive amounts of data of all the similar and modifying it. Arrays 
+can not be returned however any modifications within a function are returned to
+the array. You can return structs or do it by address where it works 
+exactly the same as an array. 
+-----
